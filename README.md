@@ -1,2 +1,7 @@
 # learningC
-The first ever Repository.....
+</br>
+#### 1st year programs in C
+
+</br>
+</br>
+My first ever Repository.....
